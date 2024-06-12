@@ -1,0 +1,10 @@
+E:\Шаг\09.06.24\09.06.24\bin\Debug\09.06.24.exe.config
+E:\Шаг\09.06.24\09.06.24\bin\Debug\09.06.24.exe
+E:\Шаг\09.06.24\09.06.24\bin\Debug\09.06.24.pdb
+E:\Шаг\09.06.24\09.06.24\obj\Debug\09.06.24.csproj.AssemblyReference.cache
+E:\Шаг\09.06.24\09.06.24\obj\Debug\_09._06._24.Form1.resources
+E:\Шаг\09.06.24\09.06.24\obj\Debug\_09._06._24.Properties.Resources.resources
+E:\Шаг\09.06.24\09.06.24\obj\Debug\09.06.24.csproj.GenerateResource.cache
+E:\Шаг\09.06.24\09.06.24\obj\Debug\09.06.24.csproj.CoreCompileInputs.cache
+E:\Шаг\09.06.24\09.06.24\obj\Debug\09.06.24.exe
+E:\Шаг\09.06.24\09.06.24\obj\Debug\09.06.24.pdb
